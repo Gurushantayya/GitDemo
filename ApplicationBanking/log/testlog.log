@@ -1,0 +1,87 @@
+2019-06-27 14:54:39,330 - ApplicationBanking -INFO - url open
+2019-06-27 14:54:44,827 - ApplicationBanking -INFO - Entered user name
+2019-06-27 14:54:45,060 - ApplicationBanking -INFO - Entered password
+2019-06-27 14:54:48,776 - ApplicationBanking -INFO - clicked on submit
+2019-06-27 14:54:48,801 - ApplicationBanking -INFO - pass
+2019-06-27 15:01:39,140 - ApplicationBanking -INFO - url open
+2019-06-27 15:01:40,734 - ApplicationBanking -INFO - Entered user name
+2019-06-27 15:01:40,864 - ApplicationBanking -INFO - Entered password
+2019-06-27 15:01:41,413 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 13:12:58,027 - ApplicationBanking -INFO - url open
+2019-06-28 13:13:06,494 - ApplicationBanking -INFO - Entered user name
+2019-06-28 13:13:06,654 - ApplicationBanking -INFO - Entered password
+2019-06-28 13:13:09,164 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 13:13:09,193 - ApplicationBanking -INFO - pass
+2019-06-28 13:13:54,221 - ApplicationBanking -INFO - url open
+2019-06-28 13:13:56,945 - ApplicationBanking -INFO - Entered user name
+2019-06-28 13:13:57,113 - ApplicationBanking -INFO - Entered password
+2019-06-28 13:13:57,708 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 13:23:13,069 - ApplicationBanking -INFO - url open
+2019-06-28 13:23:14,863 - ApplicationBanking -INFO - Entered user name
+2019-06-28 13:23:15,033 - ApplicationBanking -INFO - Entered password
+2019-06-28 13:23:15,546 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 13:26:58,955 - ApplicationBanking -INFO - url open
+2019-06-28 13:27:03,743 - ApplicationBanking -INFO - Entered user name
+2019-06-28 13:27:03,887 - ApplicationBanking -INFO - Entered password
+2019-06-28 13:27:04,334 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 13:29:35,727 - ApplicationBanking -INFO - url open
+2019-06-28 13:29:38,110 - ApplicationBanking -INFO - Entered user name
+2019-06-28 13:29:38,278 - ApplicationBanking -INFO - Entered password
+2019-06-28 13:29:39,915 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 13:30:38,043 - ApplicationBanking -INFO - url open
+2019-06-28 13:30:40,594 - ApplicationBanking -INFO - Entered user name
+2019-06-28 13:30:40,738 - ApplicationBanking -INFO - Entered password
+2019-06-28 13:30:46,264 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 13:30:46,988 - ApplicationBanking -INFO - fail
+2019-06-28 13:36:57,286 - ApplicationBanking -INFO - url open
+2019-06-28 13:37:00,782 - ApplicationBanking -INFO - Entered user name
+2019-06-28 13:37:00,915 - ApplicationBanking -INFO - Entered password
+2019-06-28 13:37:06,385 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 13:37:06,910 - ApplicationBanking -INFO - fail
+2019-06-28 13:40:19,878 - ApplicationBanking -INFO - url open
+2019-06-28 13:40:21,369 - ApplicationBanking -INFO - Entered user name
+2019-06-28 13:40:21,535 - ApplicationBanking -INFO - Entered password
+2019-06-28 13:40:23,687 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 13:40:24,145 - ApplicationBanking -INFO - fail
+2019-06-28 13:42:30,038 - ApplicationBanking -INFO - url open
+2019-06-28 13:42:30,728 - ApplicationBanking -INFO - Entered user name
+2019-06-28 13:42:30,906 - ApplicationBanking -INFO - Entered password
+2019-06-28 13:42:32,863 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 13:42:33,303 - ApplicationBanking -INFO - fail
+2019-06-28 13:47:50,965 - ApplicationBanking -INFO - url open
+2019-06-28 13:47:53,729 - ApplicationBanking -INFO - Entered user name
+2019-06-28 13:47:53,871 - ApplicationBanking -INFO - Entered password
+2019-06-28 13:47:55,863 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 13:47:56,338 - ApplicationBanking -INFO - fail
+2019-06-28 13:52:00,461 - ApplicationBanking -INFO - url open
+2019-06-28 13:52:01,879 - ApplicationBanking -INFO - Entered user name
+2019-06-28 13:52:02,096 - ApplicationBanking -INFO - Entered password
+2019-06-28 13:52:04,115 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 13:57:26,155 - ApplicationBanking -INFO - url open
+2019-06-28 13:57:27,259 - ApplicationBanking -INFO - Entered user name
+2019-06-28 13:57:27,401 - ApplicationBanking -INFO - Entered password
+2019-06-28 13:57:29,145 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 14:00:35,317 - ApplicationBanking -INFO - url open
+2019-06-28 14:00:35,971 - ApplicationBanking -INFO - Entered user name
+2019-06-28 14:00:36,113 - ApplicationBanking -INFO - Entered password
+2019-06-28 14:00:38,171 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 14:03:19,880 - ApplicationBanking -INFO - url open
+2019-06-28 14:03:20,598 - ApplicationBanking -INFO - Entered user name
+2019-06-28 14:03:20,798 - ApplicationBanking -INFO - Entered password
+2019-06-28 14:03:22,662 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 14:08:17,109 - ApplicationBanking -INFO - url open
+2019-06-28 14:08:18,065 - ApplicationBanking -INFO - Entered user name
+2019-06-28 14:08:18,301 - ApplicationBanking -INFO - Entered password
+2019-06-28 14:08:20,065 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 14:16:31,283 - ApplicationBanking -INFO - url open
+2019-06-28 14:16:33,316 - ApplicationBanking -INFO - Entered user name
+2019-06-28 14:16:33,425 - ApplicationBanking -INFO - Entered password
+2019-06-28 14:16:35,140 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 14:21:26,464 - ApplicationBanking -INFO - url open
+2019-06-28 14:21:27,847 - ApplicationBanking -INFO - Entered user name
+2019-06-28 14:21:27,983 - ApplicationBanking -INFO - Entered password
+2019-06-28 14:21:29,595 - ApplicationBanking -INFO - clicked on submit
+2019-06-28 14:26:55,099 - ApplicationBanking -INFO - url open
+2019-06-28 14:26:59,705 - ApplicationBanking -INFO - Entered user name
+2019-06-28 14:26:59,805 - ApplicationBanking -INFO - Entered password
+2019-06-28 14:27:07,435 - ApplicationBanking -INFO - clicked on submit

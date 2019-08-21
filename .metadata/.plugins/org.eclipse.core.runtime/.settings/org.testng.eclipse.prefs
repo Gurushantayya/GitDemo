@@ -1,0 +1,7 @@
+ApplicationBanking.outdir=/test-output
+ApplicationBanking.useProjectJar=true
+BankingAppliction.outdir=/test-output
+BankingAppliction.useProjectJar=true
+CreatingProject.outdir=/test-output
+CreatingProject.useProjectJar=false
+eclipse.preferences.version=1

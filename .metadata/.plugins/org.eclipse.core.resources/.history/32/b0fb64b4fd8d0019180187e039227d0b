@@ -1,0 +1,30 @@
+package com.qa.ArrayandString;
+
+public class Test1 {
+
+	public static void main(String[] args) {
+		
+		String s2="mallikarjun";
+		System.out.println(s2.concat("akshay"));
+		
+		
+		String s=new String("mallikarjun");
+		String s1=new String("akshay");
+		System.out.println(s.concat(s1));
+		
+		
+		
+		
+		StringBuffer sb= new StringBuffer("mallikarjun");
+		sb.append("akshay");
+		System.out.println(sb);
+		
+
+		
+		
+		
+		
+		
+	}
+
+}
